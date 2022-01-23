@@ -1,4 +1,8 @@
 # LightBnB
+A simple AirBnB clone created to get comfortable with databases and SQL.
+
+## Screenshots
+
 
 ## Project Structure
 
