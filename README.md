@@ -2,9 +2,10 @@
 A simple AirBnB clone created to get comfortable with databases and SQL.
 
 ## Screenshots
-!["Screenshot of the main page"] (https://github.com/spomberg/LightBnB/blob/main/docs/main-page.png?raw=true)
 
-!["Screenshot of the search page"] (https://github.com/spomberg/LightBnB/blob/main/docs/search-page.png)
+!["Screenshot of the main page"](https://github.com/spomberg/LightBnB/blob/main/docs/main-page.png?raw=true)
+
+!["Screenshot of the search page"](https://github.com/spomberg/LightBnB/blob/main/docs/search-page.png?raw=true)
 
 ## Project Structure
 
